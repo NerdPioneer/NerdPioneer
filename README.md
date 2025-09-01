@@ -28,7 +28,7 @@ I like Money, Video Games(Shooting), Partying, Anime (Solo Leveling, One Piece, 
 
 ---
 
-### 🎯 Focus Areas  
+### Focus Areas  
 - **Cybersecurity** — defense, risk management, and secure systems  
 - **Cloud Computing** — designing scalable and reliable solutions  
 - **Networking & Development** — growing skills in network engineering and automation  
@@ -36,11 +36,11 @@ I like Money, Video Games(Shooting), Partying, Anime (Solo Leveling, One Piece, 
 
 ---
 
-### 🌱 Guiding Philosophy  
+### Guiding Philosophy  
 > “Small daily improvements compound into massive long-term growth.”
 
 
-### 🧰 My Toolbox  
+### My Toolbox  
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
