@@ -1,12 +1,11 @@
 # 🛡️ Ezekiel Obeisun Jr  
 
-`Cyber Security Analyst (Future Security Engineer / Network Developer Engineer / Lifelong Learner)`  
+`Cyber Security Analyst | Future Security Engineer / Network Developer Engineer | Lifelong Learner`  
 
-I’m a Cyber Security Analyst on the path to becoming either a **Security Engineer** or a **Network Developer Engineer**.  
-Currently, I’m a student at **Western Governors University**, where I’m deepening my skills in **cloud computing, security, and networking**.  
+I’m a **Cyber Security Analyst** working toward becoming a **Security Engineer** or **Network Developer Engineer**.  
+As a student at **Western Governors University**, I focus on **cybersecurity, cloud computing, and networking**, building my skills through labs, projects, and hands-on learning.  
 
-I’m a strong advocate for **continuous improvement** — becoming *1% better every day*.  
-Whether it’s through my labs, projects, or studies, I treat every step as an opportunity to sharpen my craft and grow in both technical ability and mindset.  
+I believe in getting **1% better every day**. Each project or lesson is a step forward in becoming a stronger engineer and problem-solver.  
 
 ---
 
@@ -28,10 +27,10 @@ Whether it’s through my labs, projects, or studies, I treat every step as an o
 ---
 
 ### 🎯 Focus Areas  
-- **Cybersecurity** — building expertise in defense, risk management, and secure systems engineering  
-- **Cloud Computing** — developing scalable, resilient, and secure cloud-based solutions  
-- **Networking & Development** — advancing toward network development engineering and infrastructure automation  
-- **Continuous Learning & Documentation** — capturing labs, projects, and technical insights to reinforce growth and share knowledge  
+- **Cybersecurity** — defense, risk management, and secure systems  
+- **Cloud Computing** — designing scalable and reliable solutions  
+- **Networking & Development** — growing skills in network engineering and automation  
+- **Learning & Documentation** — sharing projects and labs to track progress and help others  
 
 ---
 
