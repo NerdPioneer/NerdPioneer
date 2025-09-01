@@ -20,7 +20,7 @@ Whether it’s through my labs, projects, or studies, I treat every step as an o
   <a href="https://github.com/NerdPioneer?tab=repositories&sort=stargazers">
     <img alt="GitHub stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/NerdPioneer?color=55960c&style=for-the-badge&logo=github&label=Stars"/>
   </a>
-  <a href="https://nerdpioneer.github.io/">
+  <a href="https://www.1percentnerd.com">
     <img alt="Portfolio" title="Visit my Portfolio Website" src="https://img.shields.io/badge/Portfolio-Website-4CAF50?style=for-the-badge&logo=vercel"/>
   </a>
 </p>
