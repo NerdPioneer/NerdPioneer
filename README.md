@@ -2,7 +2,7 @@
 
 `Cyber Security Analyst | Future Security Engineer / Network Developer Engineer | Lifelong Learner`  
 
-I’m a **Cyber Security Analyst** working toward becoming a **Security Engineer** or **Network Developer Engineer**.  
+I’m a Cyber Security Analyst working toward becoming a Security Engineer or Network Developer Engineer.  
 As a student at **Western Governors University**, I focus on **cybersecurity, cloud computing, and networking**, building my skills through labs, projects, and hands-on learning.  
 
 Each project or lesson is a step forward in becoming a stronger engineer and a better problem-solver. <br>
