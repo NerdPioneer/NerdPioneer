@@ -1,4 +1,4 @@
-# ☁️Ezekiel Obeisun Jr  
+# ☁️ EZEKIEL OBEISUN JR  
 
 `Cyber Security Analyst | Future Security Engineer / Network Developer Engineer | Lifelong Learner`  
 
