@@ -12,7 +12,7 @@ This GitHub is my proof-of-work: **labs, projects, and write-ups** that show how
 ---
 
 ## Outside the Terminal
-Shows, movies, coffee, and nights out with friends.  
+I love Video Games, Shows, Anime, Movies, coffee, and nights out with friends.  
 I’m spontaneous by nature—when studying gets heavy, I reset by getting out and doing something fun.  
 But when it’s time to execute, I’m locked in.
 
