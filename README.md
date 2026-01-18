@@ -1,6 +1,6 @@
 # ☁️ EZEKIEL A. OBEISUN JR  
 
-'Pre-Sales Solutions Engineer / Sales Engineer | Cloud, Networking & Security | WGU Cloud Computing Graduate`  
+`Pre-Sales Solutions Engineer / Sales Engineer | Cloud, Networking & Security | WGU Cloud Computing Graduate`  
 
 I build and explain solutions that make sense to both **people** and **systems**.  
 I’m pursuing **Solutions Engineer / Sales Engineer** roles where I can run discovery, design the right approach, and deliver clean demos that actually land.
