@@ -1,63 +1,50 @@
 # ☁️ EZEKIEL A. OBEISUN JR
 
-`Network Infrastructure | Cloud & Security | WGU Cloud Computing Graduate`
+`Cloud Computing Graduate | Network & Security | 1% Better Every Day`
 
-I'm building toward **Network Engineering** and eventually **Solutions Architecture** —
-one lab, one cert, one real project at a time.
+I'm a recent WGU Cloud Computing graduate who came up through
+hands-on infrastructure work — pulling cable, installing fiber,
+and building in the cloud.
 
-This GitHub is my proof-of-work: **hands-on labs, infrastructure projects, and write-ups**
-that show how I think, troubleshoot, and communicate technical ideas clearly.
+Now I'm going deeper into networking and security,
+with my eyes set on Network Security Engineering
+and eventually Solutions Architecture.
 
-**Current focus:** CCNA → Network Engineer → Solutions Architect
+This GitHub is where I document the work.
+Not highlights. The actual build process.
 
----
-
-## Where I'm Coming From
-
-I've pulled cable, racked servers, analyzed security incidents, and built cloud infrastructure.
-That range isn't an accident — it's the foundation.
-
-Field work taught me how networks physically exist.
-SOC work taught me how they get attacked.
-Cloud work taught me how they scale.
-
-Now I'm connecting all three.
+**The path:** Network Engineer → Network Security Engineer → Solutions Architect
 
 ---
 
-## What I'm Building Here
+## How I Got Here
 
-Every project here follows the same standard:
+I didn't start behind a desk.
 
-- **Build it** — working configs, scripts, and deployments, not just screenshots
-- **Break it** — intentional troubleshooting to understand failure modes
-- **Document it** — clear write-ups a teammate could actually follow
-- **Explain it** — because understanding something and communicating it are different skills
+I've worked with physical infrastructure — structured cabling,
+fiber installation, rack and stack — so I understand how
+networks exist in the real world before they ever touch the cloud.
 
----
+I layered cloud and security on top of that foundation
+through my degree, certifications, and personal projects.
 
-### Focus Areas
-- **Networking** — CCNA fundamentals, subnetting, routing & switching, packet analysis
-- **Network Security** — threat detection, IAM, secure architecture design
-- **Cloud (AWS)** — scalable, reliable infrastructure with security built in
-- **Automation** — Python and scripting to reduce manual work at scale
+Now I'm connecting it all into something that matters long-term.
 
 ---
 
-### Long-Term Path
-`Field Tech → SOC Analyst → Network Engineer → Solutions Architect`
+## What You'll Find Here
 
-I'm not skipping steps. I'm stacking them.
+Every project follows the same standard:
+
+- **Build it** — working, deployable, real
+- **Break it** — I test failure, not just success
+- **Document it** — clear enough for anyone to follow
+- **Explain it** — because building it and communicating it are two different things
 
 ---
 
-### Guiding Philosophy
-> "Small daily improvements compound into massive long-term growth."
-
----
-
-## Outside the Terminal
-
-Video games, anime, shows, movies, coffee, and nights out with friends.
-I'm spontaneous by nature — when the studying gets heavy, I reset by actually living.
-But when it's time to execute, I'm locked in.
+### What I'm Focused On
+- Networking — routing, switching, subnetting, how traffic actually moves
+- Network Security — keeping infrastructure secure from the ground up
+- Cloud (AWS) — building reliable infrastructure with security baked in
+- Scri​​​​​​​​​​​​​​​​
