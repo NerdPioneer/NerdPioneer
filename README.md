@@ -7,7 +7,7 @@ B.S. Cloud Computing, WGU (January 2026) · CompTIA A+, Network+, Security+ · I
 
 Network infrastructure is where I started — structured cabling, fiber installation, rack and stack across commercial sites in DFW. That's not background noise. That's the reason I understand how networks work before they ever touch a screen.
 
-I built cloud and security knowledge on top of that foundation through my degree, certifications, and self-directed projects. Now I'm going deeper into routing, switching, and network engineering — CCNA in progress, targeting mid-2026 — and building toward the role I've been working toward since day one: Network Engineer.
+I built cloud and security knowledge on top of that foundation through my degree, certifications, and self-directed projects. Now I'm going deeper into routing, switching, and network engineering — CCNA in progress, targeting mid-2026.
 
 This GitHub documents the actual process. Not a highlight reel — the real work.
 
@@ -33,16 +33,6 @@ Every project is held to the same standard:
 
 ---
 
-## The Path
+## Where I'm Headed
 
-```
-Network Fiber Technician → Network Engineer → Network Architect / Solutions Engineer
-```
-
-Small steps. Compounding work. If I get 1% better every day, the direction takes care of itself.
-
----
-
-## Outside the Terminal
-
-Video games, anime, coffee, good nights out. Work hard, reset hard, come back locked in.
+From physical infrastructure to network engineering to wherever the work leads — Solutions Engineering, Architecture, or something in between. The direction is forward. The standard stays the same.
