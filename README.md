@@ -1,13 +1,15 @@
 # Ezekiel A. Obeisun Jr.
 > *1% Better Every Day.*
 
-**Network Infrastructure · Cloud · Security**
+**Cybersecurity · Cloud Security · IT Operations**
 
-📍 DFW, TX &nbsp;|&nbsp; [1percentnerd.com](https://1percentnerd.com) &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/ezekiel-obeisun) &nbsp;|&nbsp; [Medium](https://medium.com/@NerdPioneer) &nbsp;|&nbsp; 
+📍 DFW, TX &nbsp;|&nbsp; [1percentnerd.com](https://1percentnerd.com) &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/ezekiel-obeisun) &nbsp;|&nbsp; [Medium](https://medium.com/@NerdPioneer)
 
 ---
 
-I started in cybersecurity. I moved through cloud and security operations. Now I'm going deeper into networking — routing, switching, how traffic actually moves — building toward network engineering with the CCNA in progress.
+I started in cybersecurity. I moved through cloud and security operations. Networking — routing, switching, how traffic actually moves — is a strength I keep building on.
+
+I'm building toward cybersecurity, cloud security, and IT operations. Healthcare IT is a strong fit for that work: systems people depend on, access that has to be right, and operations clear enough for the next person.
 
 Every role has added a layer. The foundation keeps getting stronger.
 
@@ -41,8 +43,13 @@ This GitHub is the record of that build. Not highlights — the actual work.
 ![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-C8202F?style=flat&logo=comptia&logoColor=white)
 ![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network%2B-C8202F?style=flat&logo=comptia&logoColor=white)
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-C8202F?style=flat&logo=comptia&logoColor=white)
+![CompTIA CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-C8202F?style=flat&logo=comptia&logoColor=white)
+![CompTIA Project+](https://img.shields.io/badge/CompTIA-Project%2B-C8202F?style=flat&logo=comptia&logoColor=white)
 ![ITIL 4](https://img.shields.io/badge/ITIL-4_Foundation-6B2D8B?style=flat)
-![CCNA](https://img.shields.io/badge/CCNA-In_Progress-1BA0D7?style=flat&logo=cisco&logoColor=white)
+![AWS Certified Security](https://img.shields.io/badge/AWS-Certified_Security-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![AWS Certified Developer](https://img.shields.io/badge/AWS-Certified_Developer-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Microsoft AZ-500](https://img.shields.io/badge/Microsoft-AZ--500-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Linux Essentials](https://img.shields.io/badge/Linux-Essentials-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
@@ -59,8 +66,11 @@ Every project is held to the same standard:
 
 ## Current Focus
 
-- **Networking** — routing, switching, subnetting, traffic behavior (CCNA track)
+- **Cybersecurity** — defense, access, and the failure modes that show up in production
+- **Cloud Security** — identity, design, and controls on the infrastructure I build
+- **IT Operations** — process, service, and documentation other people can run
 - **Cloud Infrastructure (AWS)** — resilient, secure systems built on AWS · 3x AWS Community Builder
+- **Networking** — routing, switching, subnetting, traffic behavior
 - **Python Automation** — reducing manual overhead and human error through scripting
 - **Linux & Systems Fundamentals** — the layer beneath everything else
 
@@ -68,7 +78,7 @@ Every project is held to the same standard:
 
 ## Where I'm Headed
 
-Network engineering is the target. Beyond that — wherever the depth of the work leads. Solutions Engineering, Architecture, or something in between. The direction is forward. The standard stays the same.
+Cybersecurity, cloud security, and IT operations are the target. Healthcare IT is part of where I want that work to land — environments where reliability and security are the job. Networking stays a strength. Beyond that — Solutions Engineering, Architecture, or something in between. The direction is forward. The standard stays the same.
 
 ---
 
