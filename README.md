@@ -13,6 +13,8 @@ Every role has added a layer.
 
 This GitHub is the record of that build. Not highlights — the actual work.
 
+Intent over noise — the work here sharpens as the research deepens.
+
 ---
 
 ## 🛠 Tech Stack
