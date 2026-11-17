@@ -1,5 +1,4 @@
 # Ezekiel A. Obeisun Jr.
-> *1% Better Every Day.*
 
 **Cybersecurity · Cloud Security · IT Operations**
 
@@ -7,13 +6,7 @@
 
 ---
 
-I started in cybersecurity. I moved through cloud and security operations. Cybersecurity, cloud security, and IT operations are the work. Networking — routing, switching, how traffic actually moves — is a strength in that work.
-
-Every role has added a layer.
-
-This GitHub is the record of that build. Not highlights — the actual work.
-
-Intent over noise — the work here sharpens as the research deepens.
+I started in cybersecurity, then cloud and security operations. The work is security, cloud, and IT operations. Networking — routing and switching — is part of it. It keeps evolving as the research does.
 
 ---
 
@@ -57,12 +50,7 @@ Resilient, secure systems built on AWS · 3x AWS Community Builder
 
 ## What You'll Find Here
 
-Every project is held to the same standard:
-
-- **Build it** — working and deployable, not theoretical
-- **Break it** — I test failure modes, not just happy paths
-- **Document it** — clear enough for someone else to follow and reproduce
-- **Explain it** — building something and communicating it are two different skills. I practice both.
+Projects are built to run, tested past the happy path, and documented well enough for someone else to reproduce.
 
 ---
 
