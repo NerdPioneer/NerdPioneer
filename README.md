@@ -7,11 +7,9 @@
 
 ---
 
-I started in cybersecurity. I moved through cloud and security operations. Networking — routing, switching, how traffic actually moves — is a strength I keep building on.
+I started in cybersecurity. I moved through cloud and security operations. Cybersecurity, cloud security, and IT operations are the work. Networking — routing, switching, how traffic actually moves — is a strength in that work.
 
-I'm building toward cybersecurity, cloud security, and IT operations. Healthcare IT is a strong fit for that work: systems people depend on, access that has to be right, and operations clear enough for the next person.
-
-Every role has added a layer. The foundation keeps getting stronger.
+Every role has added a layer.
 
 This GitHub is the record of that build. Not highlights — the actual work.
 
@@ -26,6 +24,8 @@ This GitHub is the record of that build. Not highlights — the actual work.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 **Cloud & Infrastructure**
+
+Resilient, secure systems built on AWS · 3x AWS Community Builder
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonaws&logoColor=white)
@@ -61,24 +61,6 @@ Every project is held to the same standard:
 - **Break it** — I test failure modes, not just happy paths
 - **Document it** — clear enough for someone else to follow and reproduce
 - **Explain it** — building something and communicating it are two different skills. I practice both.
-
----
-
-## Current Focus
-
-- **Cybersecurity** — defense, access, and the failure modes that show up in production
-- **Cloud Security** — identity, design, and controls on the infrastructure I build
-- **IT Operations** — process, service, and documentation other people can run
-- **Cloud Infrastructure (AWS)** — resilient, secure systems built on AWS · 3x AWS Community Builder
-- **Networking** — routing, switching, subnetting, traffic behavior
-- **Python Automation** — reducing manual overhead and human error through scripting
-- **Linux & Systems Fundamentals** — the layer beneath everything else
-
----
-
-## Where I'm Headed
-
-Cybersecurity, cloud security, and IT operations are the target. Healthcare IT is part of where I want that work to land — environments where reliability and security are the job. Networking stays a strength. Beyond that — Solutions Engineering, Architecture, or something in between. The direction is forward. The standard stays the same.
 
 ---
 
