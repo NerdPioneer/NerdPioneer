@@ -6,7 +6,7 @@
 
 ---
 
-I started in cybersecurity, then cloud and security operations. The work is security, cloud, and IT operations. Networking — routing and switching — is part of it. It keeps evolving as the research does.
+I work across security, cloud, and IT operations: hardening systems, reading traffic, and keeping infrastructure honest. Most of what's here started as a question I couldn't leave alone, and it keeps evolving as the research does.
 
 ---
 
